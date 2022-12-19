@@ -1,10 +1,10 @@
 # campus_amenities
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Team:
-Kaushal Raj (2001CS36)
-Ashutosh Kumar (2001CS11)
-Kunwar Abhay Rai (2001CS40)
-Vipul Kumar Gond (2001CS77)
+- Kaushal Raj (2001CS36)
+- Ashutosh Kumar (2001CS11)
+- Kunwar Abhay Rai (2001CS40)
+- Vipul Kumar Gond (2001CS77)
 
 This contains a short overview of the file structure and information in this google drive.
 
