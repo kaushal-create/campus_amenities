@@ -1,0 +1,16 @@
+PID,Location,Size,Rent
+1,"Admin Block",125,10000
+2,"Hostel Block",150,20000
+3,"Hostel Block",125,15000
+4,"Hostel Block",225,15000
+5,"Cycle Stand 1",150,25000
+6,"Cycle Stand 2",225,45000
+7,"Cycle Stand 3",125,35000
+8,"Canteen Block 1",300,15000
+9,"Canteen Block 2",250,12500
+10,"Residential Area 1",150,20000
+11,"Residential Area 2",175,10000
+12,"Tutorial Block 1",75,30000
+13,"Tutorial Block 2",225,10000
+14,"Guest House 1",100,20000
+15,"Guest House 2",300,15000
